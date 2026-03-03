@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /tmp/
+Host: https://trilinhabordados.com.br
+
+Sitemap: https://trilinhabordados.com.br/sitemap.xml
